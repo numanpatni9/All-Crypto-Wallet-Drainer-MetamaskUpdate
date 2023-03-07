@@ -1,10 +1,15 @@
 # All-Crypto-Wallet-Drainer-MetamaskUpdate
-The script is now working for all wallets mobile and desktop. I have also by-passed the recent metamask security update
+
+The script is now working for all wallets mobile and desktop. I have also by-passed the recent metamask security update!
+
+# PRICE FOR NEW SCRIPT : 2 ETH (NO DISCOUNT)
+BE AWARE OF SCAMMERS!! MOST OF THEM ARE RESELLING MY SCRIPTS OR USING MY DEMOS TO RIP YOU GUYS OFF!
+
 
 # Public Repo is only for reference. Contact Cronos on [Telegram](https://t.me/cronos1402) for All working Scripts
 
 # ` ALL IN ONE DRAINER `
-# ` PRICE IS HAS CHANGED. MESSAGE ME ON TELEGRAM TO GET FULL PRICE OF FRONTEND AND BACKEND. `
+
  ### ⚠️**Message us on [Telegram](https://t.me/cronos1402) to buy the lastest version**
 ---
 ## 💰SEAPORT / PERMIT / UNISWAP Multichain Drainer💰
@@ -37,7 +42,8 @@ The script is now working for all wallets mobile and desktop. I have also by-pas
 
 ## `🌊 Socials`
 
-- Telegram: @cronos1402
+ [Telegram](https://t.me/cronos1402)
+
 
 ## `👉 EXTRA `
 
